@@ -41,6 +41,7 @@ Tools for generating invoices, tracking payments, and getting paid faster.
 - **Wave** — Free invoicing and accounting. No subscription required. Best for simple invoice needs.
 - **Stripe Invoicing** — Professional invoices with integrated card payments. Good if clients pay by card.
 - **GoCardless** — Direct debit collection. Ideal for recurring work like maintenance contracts.
+- [Toolkit Labs Invoice](https://github.com/YtinuMoc/toolkitlabs-invoice) — Browser invoice/receipt PDF generator (no account). [Commercial license EUR 249](https://buy.stripe.com/bJeeVea187TScZwb095Ne0k?client_reference_id=tradesman-apps-v1): white-label, 6 templates (including trades), unlimited batch CLI. [Demo](https://ytinumoc.github.io/toolkitlabs-invoice/).
 
 ## Job Management
 
