@@ -67,6 +67,7 @@ Full accounting software with VAT / GST returns and Making Tax Digital (MTD) sup
 
 Tools for managing customer relationships, follow-ups, and communications.
 
+- **[More Good Reviews](https://moregoodreviews.com)** — AI reputation and review management for trades and home-service businesses. Timed email/SMS review requests, branded review pages, Google & Facebook sync/replies, and embeddable widgets. Business and white-label Agency plans. Web app; US/global.
 - **Jobber** — Includes a CRM module for managing client records and job history.
 - **HubSpot CRM** — Free CRM with email tracking and pipeline management. Good for businesses focused on growing revenue.
 - **NoCRM.io** — Lightweight sales pipeline tool without the complexity of full CRM platforms.
