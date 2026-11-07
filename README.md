@@ -31,6 +31,7 @@ Apps that help tradespeople produce accurate quotes and estimates.
 - **ServiceM8** — iOS field service platform with quoting, dispatch, and invoicing. Popular with electricians and plumbers. iOS only.
 - **Jobber** — North American-focused quoting and job management. Strong US and Canadian support. Good for service businesses with repeat customers.
 - **BuilderTrend** — Estimating and project management for larger construction companies and custom builders.
+- **[Mix Chapter](https://mixchapter.com/free-takeoff)** - Free concrete takeoff from PDF or DWG plans, no account. Quantities for concrete, rebar and CMU with a private takeoff link. Also free ACI practice exams (not affiliated with ACI). Web.
 
 ## Invoicing & Payments
 
